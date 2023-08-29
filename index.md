@@ -1,15 +1,32 @@
 ---
 layout: default
 title: Student Blog
+remote_theme: pages-themes/hacker@v0.2.0
 ---
 
+<style>
+    body {
+        background-color: #FFFFFF;
+    }
+    h1#miheers-page {
+        color: orange;
+        font-size: 45px;
+        text-align: center;
+    }
+    p {
+        color: black;
+    }
+</style>
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+# Miheer's Page
+CSP
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+About Me: My name is Miheer Purandare, and I am a 16-year-old at Del Norte High School. I have a dog named Rocket. 
+My parents are both from India. I am born and brought up in the US.
+I want to major in chemically engineering. 
+![Alt text](collage-1.png)
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+
+
+<img src="image-1.png" alt="sketch" height="500" width="400">

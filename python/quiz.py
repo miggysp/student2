@@ -32,5 +32,5 @@ else:
      print ('Sorry that is incorrect')
 
 
-
-print(score/3)
+#score calculations
+print(score/2)

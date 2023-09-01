@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Calculator
 description: Calculator Game
-type: plans
+type: hacks
 courses: { compsci: {week: 0} }
 ---
 

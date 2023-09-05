@@ -1,5 +1,11 @@
 ---
-
+toc: true
+comments: true
+layout: post
+title: Python Hacks
+description: Python IO
+type: hacks
+courses: { compsci: {week: 1} }
 ---
 
 ```python

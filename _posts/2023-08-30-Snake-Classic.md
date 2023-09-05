@@ -5,7 +5,7 @@ layout: post
 title: Snake
 description: Classic Snake Game
 type: hacks
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: 1} }
 categories: [C1.4]
 ---
 <style>

@@ -21,7 +21,7 @@ categories: [C1.4]
         display: none;
         border-style: solid;
         border-width: 10px;
-        border-color: #FFFFFF;
+        border-color: #9CC05F;
     }
     canvas:focus{
         outline: none;
@@ -67,7 +67,7 @@ categories: [C1.4]
     }
 
     #setting input:checked + label{
-        background-color: #FFF;
+        background-color: #9CC05F;
         color: #000;
     }
 </style>
@@ -272,7 +272,7 @@ categories: [C1.4]
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "green";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
@@ -332,7 +332,7 @@ categories: [C1.4]
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
-            ctx.fillStyle = "#FFFFFF";
+            ctx.fillStyle = "#FF160C";
             ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
         /* Random food placement */
@@ -367,8 +367,8 @@ categories: [C1.4]
         /////////////////////////////////////////////////////////////
         let setWall = function(wall_value){
             wall = wall_value;
-            if(wall === 0){screen_snake.style.borderColor = "#606060";}
-            if(wall === 1){screen_snake.style.borderColor = "#FFFFFF";}
+            if(wall === 0){screen_snake.style.borderColor = "#black";}
+            if(wall === 1){screen_snake.style.borderColor = "#black";}
         }
     })();
 </script>

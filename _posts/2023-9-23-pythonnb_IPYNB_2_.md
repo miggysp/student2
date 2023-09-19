@@ -1,12 +1,23 @@
 ---
-toc: true
-comments: true
+toc: True
+comments: True
 layout: post
-title: Python Hacks
-description: Python IO
-type: hacks
-courses: { compsci: {week: 1} }
+title: Python Hack
+type: Hacks
+courses: {'compsci': {'week': 1}}
 ---
+
+```python
+# Asking name before quiz
+name=input("What is your name?")
+score = 0
+print(f'Hi {name}! Are you ready for the quiz!')
+```
+
+    What is your name?drishya
+    Hi drishya! Are you ready for the quiz!
+
+
 
 ```python
 #Question 1 sequence

@@ -40,15 +40,39 @@ print(f"Your total bill is: ${total:.2f}")
     Burger: $3.99
     Fries: $1.99
     Drink: $0.99
-    Added fries to your order. Total: $1.99
+    Invalid item. Please choose from the menu.
     Menu
     Burger: $3.99
     Fries: $1.99
     Drink: $0.99
-    Added drink to your order. Total: $2.98
+    Added burger to your order. Total: $3.99
     Menu
     Burger: $3.99
     Fries: $1.99
     Drink: $0.99
-    Your total bill is: $2.98
+    Added fries to your order. Total: $5.98
+    Menu
+    Burger: $3.99
+    Fries: $1.99
+    Drink: $0.99
+    Added drink to your order. Total: $6.97
+    Menu
+    Burger: $3.99
+    Fries: $1.99
+    Drink: $0.99
+    Added fries to your order. Total: $8.96
+    Menu
+    Burger: $3.99
+    Fries: $1.99
+    Drink: $0.99
+    Added fries to your order. Total: $10.95
+    Menu
+    Burger: $3.99
+    Fries: $1.99
+    Drink: $0.99
+    Invalid item. Please choose from the menu.
+    Menu
+    Burger: $3.99
+    Fries: $1.99
+    Drink: $0.99
 

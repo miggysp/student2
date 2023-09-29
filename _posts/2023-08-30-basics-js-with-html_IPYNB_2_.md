@@ -270,7 +270,7 @@ console.log(titleElement.innerHTML)
               link1.href = link2.href;
               link2.href = tempHref;
 
-              // Show a pop-up message to indicate that the links have been switched
+              // THe alert shows that the 
               alert("Links have been switched!");
 
               // Set the flag to indicate that links are switched
@@ -304,7 +304,7 @@ console.log(titleElement.innerHTML)
               link1.href = link2.href;
               link2.href = tempHref;
 
-              // Show a pop-up message to indicate that the links have been switched
+              // THe alert shows that the 
               alert("Links have been switched!");
 
               // Set the flag to indicate that links are switched

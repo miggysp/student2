@@ -436,14 +436,14 @@ Create a JavaScript snippet below with the following requirements:
 
 
 ```python
-%%js
+%js
 // Create an object representing yourself
 const person = {
-    name: "Tanvi Pampati",
+    name: "Miheer Purandare",
     age: 16,
-    currentClasses: ["CompSci", "APEL", "APES","AP Physics" ],
-    interests: ["Hockey", "Cooking"],
-    favoriteBooks: ["When breath becomes air"],
+    currentClasses: ["CompSci", "APEL", "APCB","AP Physics" ],
+    interests: ["Basketball", "Football"],
+    favoriteBooks: ["It"],
     favoriteNumbers: [3, 30],
   };
   

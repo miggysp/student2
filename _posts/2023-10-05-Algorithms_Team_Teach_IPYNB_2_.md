@@ -5,7 +5,7 @@ layout: post
 title: Algorithm Team Teach
 type: hacks
 description: algorithm
-courses: {compsci: {week: 6}}
+courses: {compsci: {week: 7}}
 ---
 
 ### Pseudo Code vs. a Python Algorithm

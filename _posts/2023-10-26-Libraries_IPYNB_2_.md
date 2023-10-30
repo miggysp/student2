@@ -1,5 +1,10 @@
 ---
-
+toc: true
+comments: false
+layout: post
+title: Libraries TT
+type: hacks
+courses: { compsci: {week: 7} }
 ---
 
 <strong><font size = 26>Learning Objectives:</font></strong><br><br>
@@ -262,25 +267,15 @@ resized_image.show()
 
     ---------------------------------------------------------------------------
 
-    FileNotFoundError                         Traceback (most recent call last)
+    ModuleNotFoundError                       Traceback (most recent call last)
 
-    c:\Users\matth\librarylesson\lessons\2023-10-26-Libraries.ipynb Cell 26 line 4
-          <a href='vscode-notebook-cell:/c%3A/Users/matth/librarylesson/lessons/2023-10-26-Libraries.ipynb#X44sZmlsZQ%3D%3D?line=0'>1</a> from PIL import Image
-          <a href='vscode-notebook-cell:/c%3A/Users/matth/librarylesson/lessons/2023-10-26-Libraries.ipynb#X44sZmlsZQ%3D%3D?line=2'>3</a> # Open an image
-    ----> <a href='vscode-notebook-cell:/c%3A/Users/matth/librarylesson/lessons/2023-10-26-Libraries.ipynb#X44sZmlsZQ%3D%3D?line=3'>4</a> original_image = Image.open('image.png')
-          <a href='vscode-notebook-cell:/c%3A/Users/matth/librarylesson/lessons/2023-10-26-Libraries.ipynb#X44sZmlsZQ%3D%3D?line=5'>6</a> # Display information about the image
-          <a href='vscode-notebook-cell:/c%3A/Users/matth/librarylesson/lessons/2023-10-26-Libraries.ipynb#X44sZmlsZQ%3D%3D?line=6'>7</a> width, height = original_image.size
+    Ubuntu\home\miheerp\vscode\student2\_notebooks\2023-10-26-Libraries.ipynb Cell 26 line 1
+    ----> <a href='vscode-notebook-cell://wsl.localhost/Ubuntu/home/miheerp/vscode/student2/_notebooks/2023-10-26-Libraries.ipynb#X34sZmlsZQ%3D%3D?line=0'>1</a> from PIL import Image
+          <a href='vscode-notebook-cell://wsl.localhost/Ubuntu/home/miheerp/vscode/student2/_notebooks/2023-10-26-Libraries.ipynb#X34sZmlsZQ%3D%3D?line=2'>3</a> # Open an image
+          <a href='vscode-notebook-cell://wsl.localhost/Ubuntu/home/miheerp/vscode/student2/_notebooks/2023-10-26-Libraries.ipynb#X34sZmlsZQ%3D%3D?line=3'>4</a> original_image = Image.open('image.png') #replace image.png with valid image
 
 
-    File c:\Users\matth\AppData\Local\Programs\Python\Python311\Lib\site-packages\PIL\Image.py:3243, in open(fp, mode, formats)
-       3240     filename = fp
-       3242 if filename:
-    -> 3243     fp = builtins.open(filename, "rb")
-       3244     exclusive_fp = True
-       3246 try:
-
-
-    FileNotFoundError: [Errno 2] No such file or directory: 'image.png'
+    ModuleNotFoundError: No module named 'PIL'
 
 
 ## Pandas
@@ -451,9 +446,47 @@ plt.show()
 
 ```python
 #homework 1
+import pandas as pd
+import numpy as np
+# Creating a sample dataset
+data = {
+    'Category': ['X', 'X', 'X', 'X', 'X', 'Y', 'Y', 'Y', 'Y', 'Y', 'Z', 'Z', 'Z', 'Z', 'Z'],
+    'Values': [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75]
+}
+# Creating a DataFrame
+df = pd.DataFrame(data)
+# Calculating the mean for each category
+result = df.groupby('Category')['Values'].mean().reset_index()
+# Displaying the result
+print(result)
 ```
 
 
 ```python
+
 #homework 2
+import PIL
+import requests
+from PIL import Image
+from io import BytesIO
+import pandas as pd
+# URL of the image to download
+image_url = "https://example.com/sample_image.jpg"
+# Download the image using requests
+response = requests.get(image_url)
+# Process the image using Pillow
+if response.status_code == 200:
+    img = Image.open(BytesIO(response.content))
+    img.show()
+else:
+    print("Failed to download image")
+# Example data analysis with Pandas
+data = {'A': [1, 2, 3, 4, 5], 'B': [2, 4, 6, 8, 10]}
+df = pd.DataFrame(data)
+# Perform some data analysis operations
+print("Data Analysis with Pandas:")
+print("Data Head:")
+print(df.head())
+print("\nData Description:")
+print(df.describe())
 ```

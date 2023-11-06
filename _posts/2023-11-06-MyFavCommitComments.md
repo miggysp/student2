@@ -1,3 +1,12 @@
+---
+toc: true
+comments: true
+layout: posts
+title: MyFavCommit
+courses: {'compsci': {'week': 12} }
+type: hacks
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +74,7 @@
         </label>
         <span id="tempLabel">Metric Units</span>
         <h2>Weather Application</h2>
-        <img src="https://backend.stu.nighthawkcodingsociety.com/static/assets/sunny_weather.png" id="weatherIcon" height="200" width="200">
+        <img src="http://localhost:8531/static/assets/sunny_weather.png" id="weatherIcon" height="200" width="200">
         //Checkbox that runs the function "is Metric" On click
         <input type="text" id="location" placeholder="Enter city name" autofocus onkeyup="handleKeyPress(event)">
         <div class="button-container">
@@ -126,11 +135,11 @@
             resultDiv.innerText = 'Loading...';
 
             // Fetch weather data from an API
-            fetch('https://backend.stu.nighthawkcodingsociety.com/api/weather/' + location)
+            fetch('http://localhost:8531/api/weather/' + location)
                 .then(response => response.json())
                 .then(data => {
                     // Fetch an image URL based on the location
-                    let imageFetchUrl = 'https://backend.stu.nighthawkcodingsociety.com/api/cityimage/' + location;
+                    let imageFetchUrl = 'http://localhost:8531/api/cityimage/' + location;
                     fetch(imageFetchUrl)
                         .then(response => response.json())
                         .then(imageData => {

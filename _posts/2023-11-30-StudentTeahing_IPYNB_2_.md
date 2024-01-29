@@ -1,11 +1,11 @@
 ---
+toc: True
 comments: True
-layout: notebook
+layout: post
 title: Team Teaching - Fault Tolerance & Parallel and Distributed Computing
-description: College Board 4.2 & 4.3 - Fault Tolerance & Parallel and Distributed Computing
-type: tangibles
-courses: {'csp': {'week': 13}}
-categories: ['C4.1']
+description: None
+type: hacks
+courses: {'compsci': {'week': 15}}
 ---
 
 ## **Fault Tolerance**

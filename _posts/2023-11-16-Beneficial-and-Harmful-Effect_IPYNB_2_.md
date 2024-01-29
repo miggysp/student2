@@ -1,11 +1,11 @@
 ---
+toc: True
 comments: True
 layout: post
-toc: True
-title: Beneficial and Harmful Effects Team Teach
-description: Team Teach
+title: Beneficial and Harmful Effects
+description: None
 type: hacks
-courses: {'compsci': {'week': 2}}
+courses: {'compsci': {'week': 13}}
 ---
 
 # 5.1 Beneficial and harmful effects 

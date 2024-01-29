@@ -1,11 +1,11 @@
 ---
-toc: False
+toc: True
 comments: True
 layout: post
-title: Undecidable Problems
-description: :D
-type: ccc
-courses: {'csp': {'week': 15}}
+title: Undeicidable Problems
+description: None
+type: hacks
+courses: {'compsci': {'week': 15}}
 ---
 
 ### Decidable Problem

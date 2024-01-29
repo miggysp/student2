@@ -1,15 +1,11 @@
 ---
-
----
-
----
-toc: true
-comments: true
+toc: True
+comments: True
 layout: post
 title: Safe Computing
-description: College Board Big Idea 5.6 Safe Computing Student Lesson
+description: None
 type: hacks
-courses: { compsci: {week: 15} }
+courses: {'compsci': {'week': 17}}
 ---
 
 # **Safe Computing**

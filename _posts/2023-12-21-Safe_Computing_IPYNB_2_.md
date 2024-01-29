@@ -128,7 +128,8 @@ The  system relies on digital certificates. These are issued by Certificate Auth
 ## Popcorn Hack #3
 What are the two common approaches to encryption?
 
-answer: 
+answer: hashing and encoding
+
 
 ### Other Safe Computing Practices
 - Creating and downloading regular  helps to patch up any previously undetected errors or vulnerabilities.
@@ -143,3 +144,6 @@ answer:
 # Homework Hacks
 - fill out this google form and send us a screenshot of your score
 - https://docs.google.com/forms/d/e/1FAIpQLScNx2gPRfqgCE5CWKfRRPtrwhqtGTpmzcyaTzFksujLf-TvVA/viewform?usp=sf_link 
+
+Done with the google form
+

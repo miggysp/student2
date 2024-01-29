@@ -84,3 +84,12 @@ Define "computer bias" in your own words and explain how it can result from inte
 Briefly describe the two types of bias in software development and provide examples from the gaming industry and social media platforms. How might biases in software design affect user engagement and experiences?
 
 > Answer:
+
+### Question 1:
+Define "computer bias" in your own words and explain how it can result from intentional or unintentional factors in software development. Give a brief example of this. Explain how programmers can actively work to reduce bias in their algorithms?
+> Answer: Computer bias refers to unfair or discriminatory outcomes in algorithms. To mitigate computer bias, it is crucial to regularly update and diversify training data, ensuring it reflects a broad spectrum of demographics. Additionally, implementing transparent and accountable algorithms, along with continuous monitoring and evaluation, can help identify and address biased patterns in machine learning models.
+### Question 2:
+Briefly describe the two types of bias in software development and provide examples from the gaming industry and social media platforms. How might biases in software design affect user engagement and experiences?
+> Answer: In programming, intentional bias may occur when a developer purposefully incorporates discriminatory features or rules into a software system. This can manifest in biased decision-making or unequal treatment based on certain characteristics, potentially leading to inequities in user experience or outcomes.
+Unintentional bias in programming refers to the inadvertent introduction of discriminatory elements due to oversight, lack of awareness, or unintentional consequences during the coding process. This can result from using biased datasets, relying on flawed assumptions, or not considering the diverse perspectives of end-users.
+The impact of intentional or unintentional bias in programming can lead to unfair treatment, unequal access, and perpetuation of societal inequalities within software applications. It underscores the importance of developers being vigilant about recognizing and addressing biases to ensure that their programs are equitable and inclusive.

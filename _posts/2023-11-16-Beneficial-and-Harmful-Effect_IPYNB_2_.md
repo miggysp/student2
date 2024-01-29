@@ -107,3 +107,11 @@ Self Reflect on your use of technology? Whats your daily screen time? What benef
 
 > - ANSWER
 
+
+
+- Social media
+alternative use: online education
+positive impact: better collaboration and is far more cost efficient.
+- How might you as a programmer implement code that helps your program have less unintented risks?
+Review code professionally, static code analysis, alternative test sites, input validation, and automated testing are different ideas that can limit unintended risks.
+

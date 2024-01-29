@@ -167,14 +167,23 @@ For example, when you search something up on google, Google sends the request to
 Explain the difference between Sequential, Parallel, and Distributive computing in 1-2 sentences. Try to not look at answers above, and put it in your own words. 
 
 
-# HOMEWORK
+Not fault tolerant, only 1 connection between the two routers
+.Fault Tolerant
+for i in range(1, 11):
+    print(f"Iteration {i}")
+print("Sequential execution completed.")
+---------------------------------------
+import multiprocessing
+def print_iteration(iteration):
+    print(f"Iteration {iteration}")
+if __name__ == "__main__":
+    # Define the number of iterations
+    num_iterations = 10
+    # Create a pool of processes
+    with multiprocessing.Pool() as pool:
+        # Map the function to the range of iterations
+        pool.map(print_iteration, range(1, num_iterations + 1))
+    print("Parallel execution completed.")
 
-## Fault Tolerance: 
-Make two data flowcharts like the examples above, you can use MS paint, canva, any design website. Make one Fault Tolerant and one not fault tolerant, and explain what needs to be changed to the flowchart in order to make the network fault tolerant. Doing these will get you over a .90:
-- Neat design, easy to understand
-- real network examples; don't label each point as A-B-C etc. 
 
-## Parallel and Distributed Computing: 
-- First make a simple code that runs sequentially, for example loops ten times before stopping.
-- Then make code that completes the same job quicker by running parallel. 
-
+    ** PICTURES ARE ON SLACK B/c I did them on Cisco PT

@@ -1,6 +1,39 @@
 ---
-
+toc: True
+comments: True
+layout: post
+title: Crowdsourcing
+description: None
+type: hacks
+courses: {'compsci': {'week': 14}}
 ---
+
+### Crowdsourcing
+Crowdsourcing is the action of acquirring work and information from a large group of people via the internet. This information can be obtained from social media and other forms of media throughout the internet. Crowdsourcing allows companies to work with people throughout the world and aquire a variety of different skills. 
+![crowdsourcing image](https://www.investopedia.com/thmb/-csD4ERbU65LWGDvuXuPvUV8cUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crowdsourcing.asp-final-7a1d5dcc4f3b45c38c0a5050354f66f4.png)
+
+# variations of crowdsourcing
+Idea Generation: Seeking ideas and suggestions from the crowd to solve a problem or improve a product.
+
+Microtasks: Breaking down a large task into smaller, manageable microtasks that can be distributed to a crowd.
+
+Funding: Crowdfunding platforms, where a crowd financially supports projects, products, or causes.
+
+ata Collection: Gathering and analyzing data through contributions from a large number of individuals.
+
+Open Innovation: Involving external contributors in the innovation process of a company.
+
+# benefits of crowdsourcing
+Crowdsourcing is cost efficent because it allows access to talented workers without the need for a traditional workforce. Also, projects and work can be completed in a lesser amount of time due to the many contributors. Finally, the diversity of contributors can lead to innovative ideas and solutions that may have not emerged in a traditional setting. 
+
+# Example of crowdsourcing
+ A well-known example of crowdsourcing is the website Wikipedia. Wikipedia is an online encyclopedia where anybody can contribute and add information onto the site. 
+
+# drawbacks of crowdsourcing
+There might be complications when crowdsourcing such as difficulties in confidentiality and communication between the groups involved. There is also a slight chance of receiving low quality work if a collaborater misunderstands the project's requirements.
+## Popcorn Hack  
+How can organizations optimize crowdsoucing while minimizing the drawbacks?
+
 
 ## Citizen Science  
 - Citizen Science is scientific research that the general population helps to conduct. Ordinary citizens, often non-scientists, help contribute data to research projects using computing devices.
@@ -29,6 +62,8 @@ An exemplary crowdsourcing project is NASA's "Clickworkers" initiative, where vo
 
 **Question 4:**
 In a hypothetical scenario, a city facing urban planning challenges could leverage crowdsourcing to gather ideas for sustainable infrastructure development. The problem involves seeking innovative solutions to alleviate traffic congestion and enhance public transportation. The crowd would contribute suggestions for eco-friendly transportation options, urban green spaces, and technological innovations. Implementing the crowdsourced solutions could lead to a more sustainable and livable urban environment.
+
+
 
 
 

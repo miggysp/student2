@@ -1,11 +1,11 @@
 ---
-comments: True
-layout: notebook
-title: The Internet
-description: Big Idea 4.1 Student Teaching
-type: tangibles
 toc: True
-courses: {'compsci': {'week': 1}}
+comments: True
+layout: post
+title: The Internet
+description: None
+type: hacks
+courses: {'compsci': {'week': 14}}
 ---
 
 # 4.1 The Internet

@@ -5,7 +5,7 @@ layout: post
 title: Team Teaching - Fault Tolerance & Parallel and Distributed Computing
 description: None
 type: hacks
-courses: {'compsci': {'week': 15}}
+courses: {'compsci': {'week': 16}}
 ---
 
 ## **Fault Tolerance**

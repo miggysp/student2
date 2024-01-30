@@ -5,7 +5,7 @@ layout: post
 title: Login Sign Up page lesson
 description: None
 type: hacks
-courses: {'compsci': {'week': 18}}
+courses: {'compsci': {'week': 19}}
 ---
 
 # Login and Sign Up Page Lesson

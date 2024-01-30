@@ -5,7 +5,7 @@ layout: post
 title: Html and Javascript for User Profiles
 description: None
 type: hacks
-courses: {'compsci': {'week': 17}}
+courses: {'compsci': {'week': 19}}
 ---
 
 ## CRUD Operations

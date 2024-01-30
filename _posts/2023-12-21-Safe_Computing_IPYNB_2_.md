@@ -5,7 +5,7 @@ layout: post
 title: Safe Computing
 description: None
 type: hacks
-courses: {'compsci': {'week': 16}}
+courses: {'compsci': {'week': 18}}
 ---
 
 # **Safe Computing**

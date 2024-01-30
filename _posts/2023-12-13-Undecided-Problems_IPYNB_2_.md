@@ -5,7 +5,7 @@ layout: post
 title: Undeicidable Problems
 description: None
 type: hacks
-courses: {'compsci': {'week': 15}}
+courses: {'compsci': {'week': 17}}
 ---
 
 ### Decidable Problem

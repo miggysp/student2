@@ -9,6 +9,9 @@ type: tangibles
 
 
 ### q 41
+
+<iframe src="https://drive.google.com/file/d/1qWBrbTLZljZGYxSM1fJPJKNab0LG3PdC/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Why the Wrong Answers Are Wrong:
 
 B: Turning chat off doesn't involve the community. It's just a setting change.
@@ -19,6 +22,8 @@ Correct Answer:
 A: This option is about players giving thumbs-up to other nice players. It's using the crowd (all the players) to find and reward the good ones. When enough players say someone is great, that person gets a gift in the game. This is what crowdsourcing is all about: getting everyone to chip in.
 
 ### q 43
+
+<iframe src="https://drive.google.com/file/d/1USb62QnQ9DjcNeQzN3b5bH5_Z3Rxgedm/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Why the Wrong Answers Are Wrong:
 
@@ -31,6 +36,8 @@ A: This one's about a sneaky program that records what you type, like passwords,
 
 ### q 47
 
+<iframe src="https://drive.google.com/file/d/1tyz64754OaHAAi1KxnvQxNDJGpIkaYCC/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Option A: This will filter for restaurants with an average rating greater than or equal to 4.0 AND a price range of "lo" AND a price range of "med". This is impossible because a restaurant cannot have both "lo" and "med" as its price range simultaneously, hence it's incorrect.
 
 Option C: This will filter for restaurants with an average rating greater than or equal to 4.0 OR a price range of "lo" AND NOT "med". This is incorrect because it would include all restaurants with high ratings regardless of price and all low-cost restaurants regardless of rating.
@@ -42,6 +49,9 @@ Correct Answer:
 Option B: This will filter for restaurants with an average rating greater than or equal to 4.0 AND a price range of either "lo" OR "med". This is the correct logic because it allows for restaurants in either the "lo" or "med" price range, not both at the same time.
 
 ### q 49
+
+<iframe src="https://drive.google.com/file/d/1tIxt9knNQM3mI5oDlpdXgDYbOHOXmd-y/preview" width="640" height="480" allow="autoplay"></iframe>
+
 Why the Wrong Answers Are Wrong:
 
 A: While human validation may be necessary for some outputs, this doesn't explain the core concept that some problems inherently cannot be solved by any algorithm.
@@ -52,6 +62,8 @@ Correct Answer:
 D is correct because there are indeed some problems that can't be solved by any algorithm. This is a fundamental principle in computer science related to computability theory. Some problems are undecidable, meaning no algorithm can be written to solve them for all possible inputs.
 
 ### q 51
+
+<iframe src="https://drive.google.com/file/d/10aAM_32zPpHZNM61um2LMtpy4uhsQ6vo/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Why the Wrong Answers Are Wrong:
 

@@ -89,7 +89,7 @@ Each student at a school has a unique student ID number. A teacher has the follo
 
 The teacher wants to determine whether students who play a sport are more or less likely to have higher grade point averages than students who do not play any sports. Which of the following pairs of spreadsheets can be combined and analyzed to determine the desired information?
 
-- [ ] A. Spreadsheets I and II
+- [✔️] A. Spreadsheets I and II
 - [ ] B. Spreadsheets I and IV
 - [ ] C. Spreadsheets II and III
 - [ ] D. Spreadsheets III and IV
@@ -107,7 +107,7 @@ A certain computer has two identical processors that are able to run in parallel
 
 Which of the following parallel computing solutions would minimize the amount of time it takes to execute all four processes?
 
-- [ ] A. Running processes P and Q on one processor and processes R and S on the other processor
+- [✔️] A. Running processes P and Q on one processor and processes R and S on the other processor
 - [ ] B. Running processes P and R on one processor and processes Q and S on the other processor
 - [ ] C. Running processes P and S on one processor and processes Q and R on the other processor
 - [ ] D. Running process P on one processor and processes Q, R, and S on the other processor
@@ -124,7 +124,7 @@ A basic RunRoutr account is free, but it displays advertisements that are target
 - [ ] A. Available running routes near the user’s home
 - [ ] B. The current time
 - [ ] C. The starting location of the user’s previous run
-- [ ] D. The user’s geographic position
+- [✔️] D. The user’s geographic position
 
 ### Question 4
 
@@ -132,7 +132,7 @@ RunRoutr is a fitness tracking application for smartphones that creates suggeste
 
 - [ ] A. Adrianna’s average running speed
 - [ ] B. Adrianna’s preferred running distance
-- [ ] C. The current locations of other RunRoutr users
+- [✔️] C. The current locations of other RunRoutr users
 - [ ] D. The usernames on Adrianna’s contact list
 
 ### Question 5
@@ -141,7 +141,7 @@ RunRoutr is a fitness tracking application for smartphones that creates suggeste
 
 - [ ] A. The application allows users to identify all other users in a particular area.
 - [ ] B. Users of the application may be able to easily identify all other users in a particular area as a result of the application's algorithm for determining whether users are compatible.
-- [ ] C. Users of the application may see health benefits as a result of the application encouraging them to exercise with each other.
+- [✔️] C. Users of the application may see health benefits as a result of the application encouraging them to exercise with each other.
 - [ ] D. Users of the application who live in rural areas have the ability to use all the features of the application, even when they do not have Internet and geolocation connectivity.
 
 ### Question 6
@@ -149,7 +149,7 @@ RunRoutr is a fitness tracking application for smartphones that creates suggeste
 RunRoutr is a fitness tracking application for smartphones that creates suggested running routes so that users can run with each other. Upon downloading the application, each user creates a username, a personal profile, and a contact list of friends who also use the application. The application uses the smartphone’s GPS unit to track a user’s location, running speed, and distance traveled. Users can use the application to review information and statistics about their previous runs.
 
 - [ ] A. Users of the application are required to carry their smartphones with them while running in order to enable all of the application’s features.
-- [ ] B. Users of the application may have the ability to determine information about the locations of users that are not on their contact lists.
+- [✔️] B. Users of the application may have the ability to determine information about the locations of users that are not on their contact lists.
 - [ ] C. Users of the application may not be able to accurately track their running history if they share their smartphone with another family member.
 - [ ] D. Users of the application may not be compatible with any other users in their area.
 
@@ -160,7 +160,7 @@ RunRoutr is a fitness tracking application for smartphones that creates suggeste
 
 - [ ] A. Individuals who appear on each other’s contact lists
 - [ ] B. Individuals who are interested in running and fitness
-- [ ] C. Individuals who sign up for a premium account
+- [✔️] C. Individuals who sign up for a premium account
 - [ ] D. Individuals whose running routes begin or end near a particular business location
 
 ### Question 8
@@ -178,7 +178,7 @@ Which of the following expressions are equivalent to the value of expression as 
 
 Select two answers.
 
-- [ ] A. (NOT input1) OR (NOT input2)
+- [✔️] A. (NOT input1) OR (NOT input2)
 - [ ] B. (NOT input1) AND (NOT input2)
 - [ ] C. NOT (input1 OR input2)
-- [ ] D. NOT (input1 AND input2)
+- [✔️] D. NOT (input1 AND input2)
